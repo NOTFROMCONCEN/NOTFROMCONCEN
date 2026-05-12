@@ -65,6 +65,7 @@ README 清楚
 
 - 🤖 开发 AstrBot 相关插件
 - 🌐 折腾网络工具、节点检测和内网服务
+- 📚 维护面向 Android 电纸书 / Eink 设备的轻量桌面
 - 🧪 把突发需求做成可复用小工具
 - 📝 在博客记录项目、踩坑和部署过程
 
@@ -76,7 +77,7 @@ README 清楚
 - Python / Java / Rust / JavaScript
 - Linux / Clash / Proxy / DNS / Homelab
 - GitHub Actions / README / Plugin
-- Automation / Network Tool / Bot Tooling
+- Automation / Network Tool / Bot Tooling / Eink Launcher
 
 </td>
 </tr>
@@ -139,7 +140,7 @@ README 清楚
 <br/>
 <img src="https://img.shields.io/badge/Automation-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
 <br/>
-<img src="https://img.shields.io/badge/Launcher-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Eink_Launcher-111111?style=flat-square&logo=readme&logoColor=white" />
 
 </td>
 </tr>
@@ -188,7 +189,7 @@ README 清楚
 <br/><br/>
 
 <a href="https://github.com/NOTFROMCONCEN/IRIS_NETWORK_VALKYRIE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NOTFROMCONCEN&repo=IRIS_NETWORK_VALKYRIE&theme=tokyonight&hide_border=true" />
+  <img src="http://lsky.site-ali.sakuraovo.site/i/2026/05/12/749a3620eef4bb95e28ffa7a57c267926a02c2d67c519.jpeg" alt="IRIS_NETWORK_VALKYRIE Banner" width="100%" />
 </a>
 
 **定位**：网络自动化、连通性检测与折腾实践。  
@@ -198,7 +199,7 @@ README 清楚
 </tr>
 </table>
 
-<details>
+<details open>
 <summary><strong>🎮 更多项目</strong></summary>
 
 <br/>
@@ -210,10 +211,10 @@ README 清楚
 ### MT-Launcher
 
 <a href="https://github.com/NOTFROMCONCEN/MT-Launcher">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NOTFROMCONCEN&repo=MT-Launcher&theme=tokyonight&hide_border=true" />
+  <img src="http://lsky.site-ali.sakuraovo.site/i/2026/05/12/e1a8765a8d23a088c5c28cbacb11fdad6a02c2d95aa7c.jpeg" alt="MT-Launcher Banner" width="100%" />
 </a>
 
-Java 编写的启动器项目，用于客户端启动、配置管理或相关工具场景。
+面向 Android 电纸书 / Eink 设备优化的轻量级桌面，强调低刷新、极简交互、应用分类与快捷操作。
 
 </td>
 <td width="50%">
@@ -221,10 +222,10 @@ Java 编写的启动器项目，用于客户端启动、配置管理或相关工
 ### take_me_to_a_new_vup
 
 <a href="https://github.com/NOTFROMCONCEN/take_me_to_a_new_vup">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NOTFROMCONCEN&repo=take_me_to_a_new_vup&theme=tokyonight&hide_border=true" />
+  <img src="http://lsky.site-ali.sakuraovo.site/i/2026/05/12/dec615ece6d9683dfebf47a334e148396a02c2d655e7f.jpeg" alt="take_me_to_a_new_vup Banner" width="100%" />
 </a>
 
-前端 / 娱乐向项目，用于保留一些有趣的小实验和想法。
+随机推荐一个 VUP，并跳转到对应页面；用于发现新的虚拟主播与有趣内容。
 
 </td>
 </tr>
